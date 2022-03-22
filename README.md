@@ -30,13 +30,13 @@ Arduino Week, es un evento donde compartir tu conocimiento de arduino con otras 
 
 ## Links de Orlando Batiz:
 
-Facebook: https://www.facebook.com/B.Orlando.Batiz
-Instagram: https://www.instagram.com/orlando_batiz/
-LinkedIn: https://www.linkedin.com/in/orlandobatiz/
-Twitter: https://twitter.com/OrlandoBatiz
-YouTube: https://www.youtube.com/OrlandoBatiz
-GItHub: https://github.com/OrlandoBBatiz
-Twitch: https://www.twitch.tv/orlandobatiz
+- Facebook: https://www.facebook.com/B.Orlando.Batiz
+- Instagram: https://www.instagram.com/orlando_batiz/
+- LinkedIn: https://www.linkedin.com/in/orlandobatiz/
+- Twitter: https://twitter.com/OrlandoBatiz
+- YouTube: https://www.youtube.com/OrlandoBatiz
+- GitHub: https://github.com/OrlandoBBatiz
+- Twitch: https://www.twitch.tv/orlandobatiz
 
 ## License
 
